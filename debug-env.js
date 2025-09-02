@@ -19,3 +19,4 @@ require('dotenv').config();
 console.log('\n--- After dotenv ---');
 console.log('EMAIL_USER:', process.env.EMAIL_USER);
 console.log('JWT_SECRET:', process.env.JWT_SECRET);
+
